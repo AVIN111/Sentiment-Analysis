@@ -16,7 +16,7 @@ In this project, we developed our very own sentiment analysis using R. We have u
 * reshape2
 * wordcloud
 
-## Demo of the code: 
+## Demo of the code: [click here](https://avin111.github.io/Sentiment-Analysis/Sentiment_analysis.html)
 
 ## Reference :
 * Data Flair
